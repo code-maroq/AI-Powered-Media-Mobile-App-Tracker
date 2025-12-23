@@ -1,1 +1,1 @@
-# AI-Powered-TV-Series-Movies-Mobile-App-Tracker
+# AI-Powered-Media-Mobile-App-Tracker
